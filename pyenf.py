@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import librosa
 import math
 from scipy.misc import imresize
-
+#adding small changes
 
 class pyENF:
 
